@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Entry point
- * Description: base 10 in string
- * Return: 0
+ *main - Entry point
+ *Description: base 10 in string
+ *Return: 0
  */
 int main(void)
 {	int a;
@@ -11,4 +11,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-
