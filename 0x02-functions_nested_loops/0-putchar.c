@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- *main - Entry point
- *Description: putchar finction
- *Return: 0;
- */
+*main - Entry point
+*Description: putchar finction
+*Return: 0;
+*/
 int main(void)
 {	_putchar('_');
 	_putchar('p');
