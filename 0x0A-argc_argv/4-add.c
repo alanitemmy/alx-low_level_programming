@@ -32,7 +32,7 @@ int main(int argc, char *argv[])
 		}
 		printf("%d\n", sum);
 	}
-	else (argv != i)
+	else (argv != i);
 	{
 		printf("Error\n");
 	}
